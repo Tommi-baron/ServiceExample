@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="ticker_text">Ticker</string>
+    <string name="notification_title">Notification</string>
+    <string name="notification_message">Notification Message</string>
+</resources>
